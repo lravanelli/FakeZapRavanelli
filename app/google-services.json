@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "945085703950",
+    "firebase_url": "https://fakezapravanelli-25e56.firebaseio.com",
+    "project_id": "fakezapravanelli-25e56",
+    "storage_bucket": "fakezapravanelli-25e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945085703950:android:ff8d9ea938731b26",
+        "android_client_info": {
+          "package_name": "br.com.fakes.fakezapravanelli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945085703950-gn85jehqr77l12sh1v3ltdv1rq62kj22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fakes.fakezapravanelli",
+            "certificate_hash": "bd2fa6e970c86df58923fe875459f78fd512294f"
+          }
+        },
+        {
+          "client_id": "945085703950-oifjf9q1pmd588nn4p3fk7flnt1tofe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx58_ebj60wncE4LG9f1n0xPlnEuFx1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945085703950-oifjf9q1pmd588nn4p3fk7flnt1tofe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
